@@ -1,20 +1,20 @@
 body {
-  background-color: powderblue;
-  font-size: 25px;
-}
-h1 {
-    text-align: left;
-    color : blue;
-}
-
-#bot {
-  border: 1px solid black;
-  padding: 30px;
-}
-#mid {
-  display: grid;
-  grid-template-columns: 160px 160px 160px 160px 160px 160px;  
-}
-img {
-  margin-top: 20px;
-}
+    background-color: powderblue;
+    font-size: 25px;
+  }
+  h1 {
+      text-align: left;
+      color : blue;
+  }
+  
+  #bot {
+    border: 1px solid black;
+    padding: 30px;
+  }
+  #mid {
+    display: grid;
+    grid-template-columns: 160px 160px 160px 160px 160px 160px;  
+  }
+  img {
+    margin-top: 20px;
+  }
